@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
-Implemented the "Post" app which is used to add, delete, update and create (CRUD) post by a user.
+Implemented the "Post" app which is used to add, delete, update and create (CRUD) post by a user.<br />
 Technologies used:
 ✅  Flutter
 ✅ Rest API
