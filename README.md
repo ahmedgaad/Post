@@ -4,13 +4,20 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Implemented the "Post" app which is used to add, delete, update and create (CRUD) post by a user.
+Technologies used:
+✅  Flutter
+✅ Rest API
 
-A few resources to get you started if this is your first Flutter project:
+Concepts and Packages:
+✅ Clean Architecture (Robert C. Martin)
+✅ Clean Code
+✅ Layers (Domain, Data,  and Presentation)
+✅ Dependency Injection (get_it Package)
+✅ BloC state management 
+✅ Repository Pattern
+✅ Internet Connection Checker Package
+✅ Dartz Package
+✅ Http Package (Remote Data Source)
+✅ Shared Preference Package (Local Data Source)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
